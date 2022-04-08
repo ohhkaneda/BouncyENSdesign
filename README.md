@@ -1,3 +1,3 @@
 # BouncyENSdesign
 Created with CodeSandbox
-(https://raw.githubusercontent.com/ohhkaneda/BouncyENSdesign/blob/main/thumbnail.jpg)
+![BouncyENSdesign](https://github.com/ohhkaneda/BouncyENSdesign/blob/main/thumbnail.jpg?raw=true "BouncyENSdesign")
