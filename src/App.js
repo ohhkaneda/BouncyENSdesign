@@ -68,7 +68,6 @@ function ENS(props) {
           </div>
         </Html>
       </mesh>
-      <mesh castShadow receiveShadow geometry={nodes.Curve004.geometry} material={materials.ENS} />
     </group>
   )
 }
